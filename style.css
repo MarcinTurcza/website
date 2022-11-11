@@ -1,0 +1,52 @@
+/* this a comment  */
+h1{
+    color:rgb(20, 10, 12);
+    font-size: 50px;
+
+}
+h2{color:rgb(126, 121, 121)}
+
+.large{font-size: 30px;}
+.medium{font-size: 25px;}
+
+.center {
+    text-align: center;}
+
+* {
+        box-sizing: border-box;
+        padding: 25px 25px 25px 25px;
+        }
+
+        img {
+            width: 100%;
+            }
+
+#navbar{
+    display:flex;
+    justify-content:center;
+    background-color:rgb(11, 54, 130);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
+
+#navbar a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#navbar a:hover{
+    color:greenyellow;
+}
+.home {
+    background-image: url(Iceberg_wallpaper1.jpg);
+}
+.for {
+    background-image: url(yellow_tree1.jpg);
+}
+.against {
+    background-image: url(white_tree1.jpg);
+}
+.crab {
+    background-image: url(small_crab.jpg);
+}
+            
